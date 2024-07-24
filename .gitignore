@@ -1,6 +1,9 @@
 # Ignore the node_modules directory
 node_modules/
 
+# dist/
+.DS_Store
+
 # Logs
 logs
 *.log
