@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/8f90edf4-167a-4541-97ad-7c67891fa701
 To clone this repository, use the following command:
 
 ```bash
-git clone [repository link] 
+git clone git@github.com:SailorVirgo/SVG-Logo-Maker.git 
 ```
 
 ## Navigate to the project directory:
