@@ -15,6 +15,8 @@ SVG Logo Maker is a tool designed to help users create custom SVG logos effortle
 
 Check out the demo video to see the SVG Logo Maker in action: [Demo Video](https://app.screencastify.com/v3/watch/nPU8Oe03kLQWTsOxbDyF)
 
+
+
 ## Installation
 
 To clone this repository, use the following command:
