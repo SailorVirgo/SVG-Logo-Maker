@@ -50,6 +50,9 @@ ustom SVG logo.
 
 ## Examples
 Here are some examples of logos created using SVG Logo Maker:
+![Screenshot 2024-07-24 223501](https://github.com/user-attachments/assets/2295b6e3-1456-4ad6-b7a4-c1fc0f6f3c53)
+![Screenshot 2024-07-24 223447](https://github.com/user-attachments/assets/67d5ceeb-2dad-4cfa-bae7-310ed9ef2dbd)
+![Screenshot 2024-07-24 223434](https://github.com/user-attachments/assets/836dc304-15a6-4d29-aa8d-306847897604)
 
 
 
